@@ -1,3 +1,11 @@
 Explain what inheritance is.
+Inheritance is a concept in OOP revolving around classes and their subclasses.
+Inheritance is implemented with at least two or more classes or objects. 
+In a two-class case, one class is referred to as the 'superclass' and the other is the 'subclass.'
+The subclass extends the superclass, *inheriting* its fields, methods, and behaviors.
 
 Explain what polymorphism is.
+Polymorphism is a concept in OOP revolving around methods.
+With polymorphism, a method with the same name can have multiple different functions
+depending on the object it acts upon. The method's behavior is unique to the object it acts upon.
+It is a kind of method overloading.
